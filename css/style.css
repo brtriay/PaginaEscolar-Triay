@@ -5,7 +5,6 @@
 }
 
 body{
-    background-image: linear-gradient(to top, red , yellow);
     color: #000;
     font-family: 'Lucida Sans', sans-serif;
 }
@@ -51,7 +50,7 @@ body{
 }
 
 .grid .main{
-    background: #faa43d;
+    background-image: linear-gradient(to top, red , yellow);
     font-size: 20px;
     grid-row: 2;
     display: flex;
